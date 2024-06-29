@@ -9,5 +9,5 @@ Here you will find complete projects that I have worked on. These projects incor
 
 # Exercises
 Exercises and practice problems that I have completed to reinforce my learning.<br>  
-<i>1. Methods of including CSS in HTML.
+<i>1. Methods of including CSS in HTML.  
 2. CSS Selector
