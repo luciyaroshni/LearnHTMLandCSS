@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+}
+.font-family{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid white;
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right:20px;
+}
+#fontfam{
+    background-color: beige;
+    border: 10px solid beige;
+    padding: 20px;
+}
+#fontst{
+    background-color: beige;
+    border: 10px solid beige;
+    padding: 20px;
+}
+.font-style{
+    font-style: italic;
+    border: 10px solid white;
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#fontv{
+    background-color: beige;
+    border: 10px solid white;
+    padding: 20px;
+}
+.font-variant{
+    font-variant: small-caps;
+    border: 10px solid white;
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#fontw{
+    background-color: beige;
+    border: 10px solid white;
+    padding: 20px;
+}
+.font-weight{
+    font-weight: bold;
+    border: 10px solid white;
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#fonts{
+    background-color: beige;
+    border: 10px solid white;
+    padding: 20px;
+}
+.font-size{
+    font-size: 30px;
+    border: 10px solid white;
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#sh{
+    background-color: beige;
+    border: 10px solid white;
+    padding: 20px;
+}
+.shorthand_property{
+    font: italic small-caps bold 16px/2 'Georgia', serif;
+    border: 10px solid white;
+    background-color: aliceblue;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
